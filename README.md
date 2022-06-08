@@ -15,8 +15,8 @@ Race and terrain compatibility table:
 |         | S | W | T | P |
 |:-------:|:---:|:---:|:---:|:---:|
 | HUMAN   | 5 | 2 | 3 | 1 |
-| SWAMPER | 5 | 2 | 3 | 1 |
-| WOODMAN | 5 | 2 | 3 | 1 |
+| SWAMPER | 2 | 2 | 5 | 2 |
+| WOODMAN | 3 | 3 | 2 | 2 |
 
 If terrain string is "STWSWTPPTPTTPWPP", method should return
 - 10 for Human
